@@ -1,7 +1,7 @@
 version: '3.7'
 services:
  webapp:
-  image: aditi119/art_gallery:v001
+  image: aditi119/newimage2020:v1
   container_name: app1
   ports:
    - "8877:80"
